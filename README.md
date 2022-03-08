@@ -4,7 +4,7 @@
  
 
 ## Screenshots from Game
-- ![Kezdőképernyő](https://github.com/boti254/BlackJack/blob/main/kezdo.png?raw=true)
-- ![Fogadás](https://github.com/boti254/BlackJack/blob/main/fogad.png?raw=true)
-- ![Játék](https://github.com/boti254/BlackJack/blob/main/jatek.png?raw=true)
-- ![Szabályok](https://github.com/boti254/BlackJack/blob/main/szabalyok.png?raw=true)
+- ![Kezdőképernyő](kezdo.PNG)
+- ![Fogadás](fogad.PNG)
+- ![Játék](jatek.PNG)
+- ![Szabályok](szabalyok.PNG)
